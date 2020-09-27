@@ -928,15 +928,15 @@ span, a, a:hover {
 }
 .team .item .team-img {
   float: left;
-  width: 170px;
-  height: 170px;
+  width: 200px;
+  height: 200px;
   border: 5px solid #fff;
   border-radius: 50%;
   overflow: hidden;
 }
 .team .item .info {
   padding: 15px 15px 15px 0;
-  margin-left: 200px;
+  margin-left: 230px;
 }
 .team .item .info h6 {
   font-size: 16px;

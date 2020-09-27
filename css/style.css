@@ -1405,7 +1405,7 @@ span, a, a:hover {
      [ 15 Start Contact-Info ]
 -----------------------------------------------------------------*/
 .contact-info .info {
-  padding: 100px 5%;
+  padding: 25px 5%;
 }
 .contact-info .info .gradient {
   position: relative;
